@@ -1,1 +1,1 @@
-# QA_automatizations_courses
+# Repository for training
